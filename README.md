@@ -1,2 +1,3 @@
-# nextjs-first-try
-# nextjs-second-practice
+# NextJS first_practice
+
+# nextjs_first_practice
